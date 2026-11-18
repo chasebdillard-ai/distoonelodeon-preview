@@ -1,0 +1,40 @@
+{
+ "hubs": {
+  "nick": {
+   "videos": 1109,
+   "episodes": 135,
+   "marathons": 974,
+   "shows": 29
+  },
+  "nickjr": {
+   "videos": 647,
+   "episodes": 45,
+   "marathons": 602,
+   "shows": 13
+  },
+  "nickrewind": {
+   "videos": 113,
+   "episodes": 11,
+   "marathons": 102,
+   "shows": 7
+  },
+  "disney": {
+   "videos": 493,
+   "episodes": 398,
+   "marathons": 95,
+   "shows": 28
+  },
+  "disneyjr": {
+   "videos": 470,
+   "episodes": 379,
+   "marathons": 91,
+   "shows": 20
+  },
+  "cn": {
+   "videos": 177,
+   "episodes": 150,
+   "marathons": 27,
+   "shows": 21
+  }
+ }
+}
